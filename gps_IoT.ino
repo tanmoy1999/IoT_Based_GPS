@@ -13,8 +13,8 @@ SoftwareSerial GPS_SoftSerial(4, 3);
 WiFiClient client;
 TinyGPSPlus gps;
 
-unsigned long myChannelNumber = 1005865; //Your Channel Number (Without Brackets)
-const char * myWriteAPIKey = "GQI4SYYK4J2M3VMI"; //Your Write API Key
+unsigned long myChannelNumber = *******; //Your Channel Number (Without Brackets)
+const char * myWriteAPIKey = "***************"; //Your Write API Key
 
 
 
